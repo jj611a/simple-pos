@@ -7,8 +7,11 @@ This repository only hosts app updates - there is no source code here.
 ## Download
 Get the latest files from the [Releases page](https://github.com/jj611a/simple-pos/releases/latest):
 
+- **Windows (recommended):** `SimplePOS-<version>-windows-setup.exe` - run it and click Next. No administrator rights needed.
+- **Windows (portable):** `SimplePOS-<version>-windows.zip` - extract anywhere and run `SimplePOS.exe`
 - **Android (most phones):** `SimplePOS-<version>-android-arm64.apk`
 - **Android (older 32-bit phones):** `SimplePOS-<version>-android-armv7.apk`
-- **Windows 10/11:** `SimplePOS-<version>-windows.zip` - extract anywhere and run `SimplePOS.exe`
 
 The app checks this page by itself and offers new versions (Settings > Updates).
+
+If Windows SmartScreen says "Windows protected your PC" the first time: More info > Run anyway.
